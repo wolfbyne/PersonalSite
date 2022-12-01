@@ -8,7 +8,7 @@
 
 <section>
 	<h1>
-		Come back later, site isn't lookin lekker yet...
+		Come back later, site isn't lookin lekker yet... :(
 	</h1>
 </section>
 
