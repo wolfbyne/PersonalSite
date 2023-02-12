@@ -1,0 +1,38 @@
+html{
+    height: 100%;
+}
+body {
+    position: relative;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.profile-photo {
+    border-radius: 42%;
+    border: 1px solid #fff;
+    box-shadow: 0 0 0 2px #fff;
+    background-color: #fff;
+}
+
+.mt {
+    margin-top: 4rem;
+}
+.mb {
+    margin-bottom: 4rem;
+}
+
+.header {
+    background-color: #263874;
+    color: #fff;
+    padding: 2rem;
+    text-align: center;
+    border-bottom: 2px solid #fff;
+}
+.footer {
+    background-color: #263874;
+    color: #fff;
+    padding: 2rem;
+    text-align: center;
+    border-top: 2px solid #fff;
+}
